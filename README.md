@@ -30,6 +30,12 @@ That's it
 make build-redis-image
 ```
 
+#### Openshift Redis Docker Image
+
+```shell
+make build-redis-ocp-image
+```
+
 #### Redis Exporter Docker Image
 
 ```shell
